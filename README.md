@@ -2,6 +2,7 @@
 
 ## Student, artist, coder
 – studying Design and Digital Technologies
+</br>
 – self taught coder
 
 ### Languages and Tools:
