@@ -1,9 +1,9 @@
 ### Hello, my name is Andrej [website]
 
 ## Student, artist, coder
-– studying Design and Digital Technologies
+* studying Design and Digital Technologies
 </br>
-– self taught coder
+* self taught coder
 
 ### Languages and Tools:
 
